@@ -1,0 +1,11 @@
+/Users/davidcornish/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro
+/Users/davidcornish/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.deps.json
+/Users/davidcornish/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.runtimeconfig.json
+/Users/davidcornish/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.runtimeconfig.dev.json
+/Users/davidcornish/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.dll
+/Users/davidcornish/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.pdb
+/Users/davidcornish/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.csprojAssemblyReference.cache
+/Users/davidcornish/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.AssemblyInfoInputs.cache
+/Users/davidcornish/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.AssemblyInfo.cs
+/Users/davidcornish/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.dll
+/Users/davidcornish/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.pdb
